@@ -1,5 +1,5 @@
 # Food-Recipe-App-Using-Vanilla-JS
-# Get recipes of any food item which also displays the number of calories, Diet label, Health labels & View artcile on that recipe .
+# Get recipes of any food item which also displays the number of calories, Diet label, Health labels & View article on that recipe .
 
 # Public API USED
 https://www.edamam.com/
